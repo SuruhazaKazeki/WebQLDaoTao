@@ -7,21 +7,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebQL
+namespace WebQLDaoTao
 {
 
 
-    public partial class QLMonHoc
+    public partial class QLMonhoc
     {
-
-        /// <summary>
-        /// btShowForm control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btShowForm;
 
         /// <summary>
         /// txtMaMH control.
@@ -33,13 +24,13 @@ namespace WebQL
         protected global::System.Web.UI.WebControls.TextBox txtMaMH;
 
         /// <summary>
-        /// txtTenMH control.
+        /// txtTenMon control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtTenMH;
+        protected global::System.Web.UI.WebControls.TextBox txtTenMon;
 
         /// <summary>
         /// txtSoTiet control.
@@ -51,30 +42,21 @@ namespace WebQL
         protected global::System.Web.UI.WebControls.TextBox txtSoTiet;
 
         /// <summary>
-        /// btThem control.
+        /// Button1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btThem;
+        protected global::System.Web.UI.WebControls.Button Button1;
 
         /// <summary>
-        /// lbThongBao control.
+        /// gvMonHoc control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbThongBao;
-
-        /// <summary>
-        /// gvMonhoc control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gvMonhoc;
+        protected global::System.Web.UI.WebControls.GridView gvMonHoc;
     }
 }
